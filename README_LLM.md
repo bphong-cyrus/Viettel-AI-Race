@@ -71,8 +71,7 @@ Vấn đề chính: `text_score` thấp (1-WER = 0.66) → rules miss nhiều tr
 | `sft_train_lora.py` | LoRA/QLoRA fine-tuning trên bootstrap_gt |
 | `evaluate.py` | Eval harness trên bootstrap_gt |
 | `run.py` | Unified CLI: `rules` / `llm` / `hybrid` / `eval` / `compare` |
-| `kaggle_sft_train.ipynb` | Notebook train trên Kaggle |
-| `kaggle_inference.ipynb` | Notebook inference + submit trên Kaggle |
+| `kaggle_ner_pipeline.ipynb` | **1 notebook** — train + inference + submit trên Kaggle |
 
 ## 🚀 Quick start
 
@@ -115,24 +114,27 @@ python run.py eval --pred_dir output_llm
 python run.py compare --runs output_v20 output_llm
 ```
 
-### 6. SFT fine-tuning trên Kaggle
+### 6. SFT fine-tuning + inference trên Kaggle
 
-Upload `bootstrap_gt/` + code files làm Kaggle dataset, sau đó:
+**1 notebook duy nhất: `kaggle_ner_pipeline.ipynb`**
 
 ```python
-# Trong kaggle_sft_train.ipynb
+# Cell 4 — cấu hình
 BASE_MODEL = "Qwen/Qwen2.5-7B-Instruct"
-USE_QLORA = True
+TRAIN = True          # True = train LoRA, False = skip training
+HYBRID = True         # True = rules + LLM, False = LLM only
 EPOCHS = 5
-# Run all cells → adapter saved to /kaggle/working/lora_adapter
+# Run cells 1→9 → output_hybrid.zip
 ```
 
-### 7. Inference với LoRA adapter
-
-```bash
-python run.py llm --model qwen2.5-7b-instruct --vram 16 \
-    --lora_path ./lora_adapter
-```
+**Thứ tự trên Kaggle:**
+1. Cell 1-3: Cài đặt + clone repo
+2. Cell 4: Điều chỉnh tham số
+3. Cell 5: Train LoRA (`TRAIN=True`)
+4. Cell 6: Kiểm tra adapter
+5. Cell 7: Load model + adapter
+6. Cell 8: Chạy inference
+7. Cell 9: Tạo `output_hybrid.zip` → submit
 
 ## 🔧 Hardware matrix
 
@@ -163,11 +165,9 @@ Từ đề bài:
 ## 📋 Workflow đề xuất
 
 1. **Baseline (đã có)**: `python run.py rules` → ~28.87
-2. **LLM zero-shot**: `python run.py llm --model qwen2.5-7b-instruct` (Kaggle)
-3. **Hybrid**: `python run.py llm --with_rules` (Kaggle)
-4. **SFT fine-tune**: train LoRA trên Kaggle (kaggle_sft_train.ipynb)
-5. **LLM + LoRA**: `python run.py llm --lora_path ./lora_adapter` (Kaggle)
-6. **Submit**: download `output_hybrid.zip` từ Kaggle
+2. **SFT fine-tune**: train LoRA trên Kaggle (`kaggle_ner_pipeline.ipynb`, `TRAIN=True`)
+3. **Hybrid inference**: `kaggle_ner_pipeline.ipynb`, `TRAIN=False`, `HYBRID=True`, `LORA_ADAPTER="/kaggle/working/lora_adapter"`
+4. **Submit**: download `output_hybrid.zip` từ Kaggle
 
 ## 🐛 Debug tips
 
