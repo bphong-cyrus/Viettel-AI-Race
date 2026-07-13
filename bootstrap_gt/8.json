@@ -1,0 +1,37 @@
+[
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      568,
+      576
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      578,
+      585
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khàn tiếng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      591,
+      601
+    ],
+    "confidence": 4
+  }
+]

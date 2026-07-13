@@ -1,0 +1,46 @@
+[
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      70,
+      92
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "sa âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      96,
+      105
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "bàng quang căng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      214,
+      229
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bí tiếu liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      242,
+      258
+    ],
+    "confidence": 4
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      156,
+      177
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "sỏi mật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      237,
+      244
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      406,
+      413
+    ],
+    "confidence": 3
+  }
+]

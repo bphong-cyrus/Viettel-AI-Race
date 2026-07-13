@@ -1,0 +1,124 @@
+[
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      145,
+      153
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      640,
+      653
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "7438"
+    ],
+    "assertions": [],
+    "position": [
+      786,
+      799
+    ],
+    "confidence": 16
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      885,
+      892
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "nhịp xoang",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "assertions": [],
+    "position": [
+      1226,
+      1236
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "ativan",
+    "type": "THUỐC",
+    "candidates": [
+      "6472"
+    ],
+    "assertions": [],
+    "position": [
+      1342,
+      1348
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Lorazepam",
+    "type": "THUỐC",
+    "candidates": [
+      "6472"
+    ],
+    "assertions": [],
+    "position": [
+      1351,
+      1360
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lovenox",
+    "type": "THUỐC",
+    "candidates": [
+      "135819"
+    ],
+    "assertions": [],
+    "position": [
+      1368,
+      1375
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhịp xoang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1678,
+      1688
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "aspirin Ng",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "assertions": [],
+    "position": [
+      1226,
+      1236
+    ],
+    "confidence": 2
+  }
+]

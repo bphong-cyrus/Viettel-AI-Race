@@ -1,0 +1,168 @@
+[
+  {
+    "text": "viêm thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      83,
+      97
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau cơ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      142,
+      148
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      307,
+      314
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      325,
+      332
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      367,
+      374
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "advil",
+    "type": "THUỐC",
+    "candidates": [
+      "5640"
+    ],
+    "assertions": [],
+    "position": [
+      378,
+      383
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau cổ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      394,
+      400
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "đau vai",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      646,
+      653
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ho khan",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      696,
+      703
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      706,
+      713
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm khớp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      929,
+      938
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      939,
+      950
+    ],
+    "confidence": 5
+  },
+  {
+    "text": "trào ngược",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      45,
+      55
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      1241,
+      1252
+    ],
+    "confidence": 2
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Ung thư vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      25,
+      35
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      44,
+      63
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      116,
+      123
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ung thư",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      227,
+      234
+    ],
+    "confidence": 3
+  }
+]

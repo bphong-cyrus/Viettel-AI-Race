@@ -1,0 +1,96 @@
+[
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      108,
+      116
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      121,
+      135
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      768,
+      783
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      795,
+      806
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "1119705"
+    ],
+    "assertions": [],
+    "position": [
+      847,
+      857
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "chấn thương",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1090,
+      1101
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tâm thần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1159,
+      1167
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "trầm cảm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      555,
+      563
+    ],
+    "confidence": 3
+  }
+]

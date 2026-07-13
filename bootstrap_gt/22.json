@@ -1,0 +1,17 @@
+[
+  {
+    "text": "aspirin 325mg h",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      75,
+      90
+    ],
+    "confidence": 4
+  }
+]

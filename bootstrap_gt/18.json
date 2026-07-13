@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      156,
+      169
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tắc mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      555,
+      568
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau ngực lan ra",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      404,
+      419
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "bóc tách động mạch chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      641,
+      663
+    ],
+    "confidence": 6
+  }
+]

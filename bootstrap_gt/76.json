@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      62
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      118,
+      133
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      202,
+      210
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "plavix",
+    "type": "THUỐC",
+    "candidates": [
+      "329526"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      355,
+      361
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau ngực sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      463,
+      484
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "7438"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      631,
+      644
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      918,
+      925
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      948,
+      956
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      973,
+      982
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "heparin",
+    "type": "THUỐC",
+    "candidates": [
+      "5451"
+    ],
+    "assertions": [],
+    "position": [
+      1006,
+      1013
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nitro",
+    "type": "THUỐC",
+    "candidates": [
+      "7438"
+    ],
+    "assertions": [],
+    "position": [
+      1041,
+      1046
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      798,
+      806
+    ],
+    "confidence": 8
+  }
+]

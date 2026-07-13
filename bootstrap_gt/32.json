@@ -1,0 +1,209 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      80,
+      93
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      96,
+      110
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Rung nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      122,
+      130
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      156,
+      169
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      222,
+      229
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      534,
+      542
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau vai",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      647,
+      654
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "suy hô hấp",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      700,
+      710
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm khuẩn huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      991,
+      1008
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1226,
+      1241
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "khò khè",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1382,
+      1389
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "albuterol 2",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "assertions": [],
+    "position": [
+      1465,
+      1477
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "guaifenesin",
+    "type": "THUỐC",
+    "candidates": [
+      "392085"
+    ],
+    "assertions": [],
+    "position": [
+      1487,
+      1498
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "furosemide 40 mg",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "assertions": [],
+    "position": [
+      1502,
+      1518
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2060,
+      2068
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Khó thở tăng dần",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      222,
+      238
+    ],
+    "confidence": 9
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      715,
+      728
+    ],
+    "confidence": 3
+  }
+]

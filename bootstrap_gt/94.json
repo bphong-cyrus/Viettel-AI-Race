@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Ung thư vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      49,
+      59
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      181,
+      189
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      318,
+      326
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "đi ngoài phân lỏng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      341,
+      359
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lorazepam",
+    "type": "THUỐC",
+    "candidates": [
+      "6472"
+    ],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      829,
+      838
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nôn ra thức ăn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      592,
+      606
+    ],
+    "confidence": 3
+  }
+]

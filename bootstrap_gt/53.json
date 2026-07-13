@@ -1,0 +1,72 @@
+[
+  {
+    "text": "bệnh tim mạch do xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      131,
+      154
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      233,
+      246
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      460,
+      474
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      679,
+      686
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau thắt ngực không ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1052,
+      1079
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "đau thắt ngực không ổn định",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1178,
+      1205
+    ],
+    "confidence": 3
+  }
+]

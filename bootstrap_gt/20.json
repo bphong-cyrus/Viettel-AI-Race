@@ -1,0 +1,174 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      61
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      68,
+      81
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      104,
+      127
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      142,
+      157
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "rung nhĩ kịch phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      172,
+      190
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      197,
+      221
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "metoprolol",
+    "type": "THUỐC",
+    "candidates": [
+      "866436"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      354,
+      364
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Chấn thương",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1173,
+      1184
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "vết thương hở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1216,
+      1229
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tràn dịch màng tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1578,
+      1596
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1598,
+      1617
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "thoát vị",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1627,
+      1635
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Gãy xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2517,
+      2526
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiểu đêm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2963,
+      2971
+    ],
+    "confidence": 3
+  }
+]

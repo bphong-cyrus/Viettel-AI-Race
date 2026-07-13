@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      87,
+      100
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Ung thư đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      146,
+      163
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      178,
+      193
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "coumadin",
+    "type": "THUỐC",
+    "candidates": [
+      "11289"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      204,
+      212
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "metoprolol",
+    "type": "THUỐC",
+    "candidates": [
+      "11289"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      355,
+      366
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      412,
+      419
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      568,
+      576
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      669,
+      689
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      702,
+      717
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhịp nhanh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      766,
+      776
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      945,
+      953
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "metoprolol 5mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "866436"
+    ],
+    "assertions": [],
+    "position": [
+      1053,
+      1070
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "metoprolol",
+    "type": "THUỐC",
+    "candidates": [
+      "866436"
+    ],
+    "assertions": [],
+    "position": [
+      1298,
+      1308
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "coumadin 2",
+    "type": "THUỐC",
+    "candidates": [
+      "11289"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      355,
+      366
+    ],
+    "confidence": 2
+  }
+]

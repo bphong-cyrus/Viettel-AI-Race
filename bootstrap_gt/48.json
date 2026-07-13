@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Yếu nửa người",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      123,
+      136
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "va đập",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      304,
+      310
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      386,
+      394
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "chấn thương",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2291,
+      2302
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "xuất huyết",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2713,
+      2723
+    ],
+    "confidence": 4
+  }
+]

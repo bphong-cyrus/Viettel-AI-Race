@@ -1,0 +1,24 @@
+[
+  {
+    "text": "giọng khàn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      47
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tổn thương dây thanh quản",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      51,
+      76
+    ],
+    "confidence": 10
+  }
+]

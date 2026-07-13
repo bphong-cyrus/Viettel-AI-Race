@@ -1,0 +1,16 @@
+[
+  {
+    "text": "xơ gan",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected",
+      "isHistorical"
+    ],
+    "position": [
+      61,
+      67
+    ],
+    "confidence": 4
+  }
+]

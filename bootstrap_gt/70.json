@@ -1,0 +1,137 @@
+[
+  {
+    "text": "acetaminophen 500mg",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      171,
+      190
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      376,
+      384
+    ],
+    "confidence": 22
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      821,
+      838
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      851,
+      871
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm gan virus",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      874,
+      888
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1016,
+      1024
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "phân có máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1090,
+      1101
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "acetaminophen",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1485,
+      1498
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "sỏi mật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1694,
+      1701
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm gan virus",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1945,
+      1959
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      874,
+      878
+    ],
+    "confidence": 2
+  }
+]

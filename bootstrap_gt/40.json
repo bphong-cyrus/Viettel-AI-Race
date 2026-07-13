@@ -1,0 +1,216 @@
+[
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      54,
+      68
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      75,
+      88
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      95,
+      102
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngưng thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      109,
+      118
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      176,
+      183
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "mucinex",
+    "type": "THUỐC",
+    "candidates": [
+      "392085"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      190,
+      197
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "khó thở nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      433,
+      444
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      449,
+      469
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      476,
+      483
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      539,
+      548
+    ],
+    "confidence": 9
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      906,
+      914
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      930,
+      938
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đổ mồ hôi đêm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      958,
+      971
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở khi nằm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      987,
+      1002
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "azithromycin",
+    "type": "THUỐC",
+    "candidates": [
+      "18631"
+    ],
+    "assertions": [],
+    "position": [
+      1207,
+      1219
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phổi thùy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1718,
+      1732
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiểu nhiều lần",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      579,
+      593
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      706,
+      713
+    ],
+    "confidence": 3
+  }
+]

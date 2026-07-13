@@ -1,0 +1,15 @@
+[
+  {
+    "text": "bàn chân vẹo bẩm sinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      39,
+      60
+    ],
+    "confidence": 7
+  }
+]

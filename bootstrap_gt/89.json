@@ -1,0 +1,65 @@
+[
+  {
+    "text": "flagyl",
+    "type": "THUỐC",
+    "candidates": [
+      "6921"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      223,
+      229
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      700,
+      711
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "vết thương",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      759,
+      769
+    ],
+    "confidence": 6
+  },
+  {
+    "text": "huyết khối tĩnh mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1353,
+      1373
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "u thần kinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      135,
+      146
+    ],
+    "confidence": 3
+  }
+]

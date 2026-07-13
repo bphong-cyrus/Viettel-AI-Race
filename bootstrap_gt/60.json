@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Trào ngược",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      149,
+      159
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "thoát vị",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      638,
+      646
+    ],
+    "confidence": 10
+  }
+]

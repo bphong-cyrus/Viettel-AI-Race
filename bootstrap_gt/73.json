@@ -1,0 +1,235 @@
+[
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      71,
+      79
+    ],
+    "confidence": 19
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected",
+      "isHistorical"
+    ],
+    "position": [
+      101,
+      116
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Hội chứng mạch vành cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected",
+      "isHistorical"
+    ],
+    "position": [
+      137,
+      160
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      193,
+      206
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Đái tháo đường type 2",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      320,
+      341
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      371,
+      399
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      469,
+      492
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "aspirin 81mg",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      760,
+      772
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "clopidogrel",
+    "type": "THUỐC",
+    "candidates": [
+      "329526"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      787,
+      798
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "metoprolol succinate 100mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "866436"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      860,
+      892
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lasix 40mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      911,
+      927
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "atorvastatin 80mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "83367"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      946,
+      969
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lisinopril 2.5mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "29046"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      986,
+      1008
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1583,
+      1590
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1592,
+      1607
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      343,
+      357
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "Đột quỵ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      837,
+      844
+    ],
+    "confidence": 2
+  }
+]

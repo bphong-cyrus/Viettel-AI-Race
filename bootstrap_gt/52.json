@@ -1,0 +1,40 @@
+[
+  {
+    "text": "ung thư đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected",
+      "isHistorical"
+    ],
+    "position": [
+      183,
+      200
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      401,
+      408
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Augmentin",
+    "type": "THUỐC",
+    "candidates": [
+      "617314"
+    ],
+    "assertions": [],
+    "position": [
+      630,
+      639
+    ],
+    "confidence": 4
+  }
+]

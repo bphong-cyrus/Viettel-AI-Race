@@ -1,0 +1,68 @@
+[
+  {
+    "text": "chấn thương",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      134,
+      145
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "gãy xương sườn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      146,
+      160
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tai nạn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      170,
+      177
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bị ngã",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      251,
+      257
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đập ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      258,
+      266
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      304,
+      335
+    ],
+    "confidence": 4
+  }
+]

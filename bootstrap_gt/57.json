@@ -1,0 +1,24 @@
+[
+  {
+    "text": "bệnh rễ thần kinh",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      74,
+      91
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "ngón tay cái",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      103,
+      115
+    ],
+    "confidence": 7
+  }
+]

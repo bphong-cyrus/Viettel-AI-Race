@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Ung thư phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      79,
+      91
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "huyết khối tĩnh mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      176,
+      196
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      251,
+      264
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "u di căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      325,
+      333
+    ],
+    "confidence": 3
+  }
+]

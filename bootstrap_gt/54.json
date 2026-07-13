@@ -1,0 +1,115 @@
+[
+  {
+    "text": "u ác",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      52
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "ung thư",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      66,
+      73
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "1119705"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      298,
+      308
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "amiodarone",
+    "type": "THUỐC",
+    "candidates": [
+      "703"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      325,
+      335
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      479,
+      491
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      655,
+      664
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "rung nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      815,
+      823
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "thiếu máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1633,
+      1642
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phổi thùy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2731,
+      2745
+    ],
+    "confidence": 4
+  }
+]

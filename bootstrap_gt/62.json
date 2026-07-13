@@ -1,0 +1,46 @@
+[
+  {
+    "text": "loét",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      204,
+      208
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "ngón chân út",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      215,
+      227
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "loét đau",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      268,
+      276
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "loét đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      283,
+      290
+    ],
+    "confidence": 4
+  }
+]

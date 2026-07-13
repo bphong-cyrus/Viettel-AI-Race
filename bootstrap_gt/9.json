@@ -1,0 +1,65 @@
+[
+  {
+    "text": "u xơ tử cung",
+    "type": "THUỐC",
+    "candidates": [
+      "4509"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      104,
+      111
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "đau bụng dưới",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      165,
+      178
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      182,
+      190
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "u xơ tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      542,
+      554
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "iron 2",
+    "type": "THUỐC",
+    "candidates": [
+      "4509"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      104,
+      111
+    ],
+    "confidence": 2
+  }
+]

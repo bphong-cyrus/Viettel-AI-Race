@@ -1,0 +1,135 @@
+[
+  {
+    "text": "Bệnh tim mạch do xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      21,
+      44
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      69,
+      87
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      89,
+      103
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "rối loạn ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      136,
+      151
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "co giật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      177,
+      184
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "bị ngã",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      228,
+      234
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      711,
+      718
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "tê bì",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1056,
+      1061
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1947,
+      1969
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "xuất huyết dưới nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      253,
+      273
+    ],
+    "confidence": 9
+  },
+  {
+    "text": "giật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1893,
+      1897
+    ],
+    "confidence": 3
+  }
+]

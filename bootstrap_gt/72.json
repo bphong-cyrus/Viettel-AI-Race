@@ -1,0 +1,61 @@
+[
+  {
+    "text": "vàng da",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      118,
+      125
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      138,
+      142
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "khối u",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      499,
+      505
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "ung thư",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      653,
+      660
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "u ác",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1387,
+      1391
+    ],
+    "confidence": 4
+  }
+]

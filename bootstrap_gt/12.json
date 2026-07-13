@@ -1,0 +1,137 @@
+[
+  {
+    "text": "ho ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      156,
+      165
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      327,
+      334
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "sốt đến",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      461,
+      468
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      685,
+      693
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "levofloxacin",
+    "type": "THUỐC",
+    "candidates": [
+      "59011"
+    ],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      876,
+      888
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      901,
+      914
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "phù phổi",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      975,
+      985
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "phù phổi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1154,
+      1162
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phổi mắc phải",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      918,
+      936
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1139,
+      1148
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "tylenol 3",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      975,
+      985
+    ],
+    "confidence": 2
+  }
+]

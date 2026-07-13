@@ -1,0 +1,189 @@
+[
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      55
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      62,
+      76
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngừng thở khi ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      113,
+      130
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      154,
+      161
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Dị ứng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      182,
+      188
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "methylprednisolone 125mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "assertions": [],
+    "position": [
+      197,
+      210
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      256,
+      263
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "ho có đờm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      582,
+      591
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "phù chi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      623,
+      630
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "1757856"
+    ],
+    "assertions": [],
+    "position": [
+      1401,
+      1418
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "vancomycin 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "1119705"
+    ],
+    "assertions": [],
+    "position": [
+      1434,
+      1448
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "59011"
+    ],
+    "assertions": [],
+    "position": [
+      1467,
+      1488
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "aspirin 325mg",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "assertions": [],
+    "position": [
+      1504,
+      1517
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "methylprednisolone 125mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "6851"
+    ],
+    "assertions": [],
+    "position": [
+      1579,
+      1606
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "furosemide 2",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "assertions": [],
+    "position": [
+      197,
+      210
+    ],
+    "confidence": 2
+  }
+]

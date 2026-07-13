@@ -1,0 +1,24 @@
+[
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      232,
+      241
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "rối loạn đông máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      489,
+      506
+    ],
+    "confidence": 4
+  }
+]

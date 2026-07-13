@@ -1,0 +1,172 @@
+[
+  {
+    "text": "hen suyễn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      54,
+      63
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      70,
+      84
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      91,
+      104
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      127,
+      134
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "ngưng thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      151,
+      160
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "thở nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      216,
+      225
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      311,
+      318
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "chảy nước mũi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      326,
+      339
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      459,
+      470
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1187,
+      1199
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Albuterol",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "assertions": [],
+    "position": [
+      1254,
+      1263
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Ipratropium 1",
+    "type": "THUỐC",
+    "candidates": [
+      "6402"
+    ],
+    "assertions": [],
+    "position": [
+      1267,
+      1281
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Ceftriaxone 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "2713"
+    ],
+    "assertions": [],
+    "position": [
+      1291,
+      1306
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Tylenol 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      1333,
+      1344
+    ],
+    "confidence": 4
+  }
+]

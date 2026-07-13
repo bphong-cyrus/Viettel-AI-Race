@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Tiểu đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      54,
+      64
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      72,
+      86
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      93,
+      106
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      150,
+      157
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      164,
+      175
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm khuẩn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      208,
+      219
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm bể thận",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      473,
+      485
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      489,
+      502
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "glucose",
+    "type": "THUỐC",
+    "candidates": [
+      "346957"
+    ],
+    "assertions": [],
+    "position": [
+      961,
+      968
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "gãy xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1329,
+      1338
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1344,
+      1354
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "huyết khối tĩnh mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1386,
+      1406
+    ],
+    "confidence": 4
+  }
+]

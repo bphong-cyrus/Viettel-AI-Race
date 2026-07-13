@@ -1,0 +1,198 @@
+[
+  {
+    "text": "hen suyễn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      84,
+      93
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "albuterol",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      159,
+      168
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      246,
+      253
+    ],
+    "confidence": 16
+  },
+  {
+    "text": "khò khè",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      682,
+      689
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "prednisone",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "assertions": [],
+    "position": [
+      747,
+      757
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "amoxicillin",
+    "type": "THUỐC",
+    "candidates": [
+      "723"
+    ],
+    "assertions": [],
+    "position": [
+      771,
+      782
+    ],
+    "confidence": 13
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      845,
+      854
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "azithromycin",
+    "type": "THUỐC",
+    "candidates": [
+      "18631"
+    ],
+    "assertions": [],
+    "position": [
+      884,
+      896
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "prednisone 40 mg",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      915,
+      931
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1051,
+      1058
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "mất ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1197,
+      1204
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1847,
+      1856
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "magnesium",
+    "type": "THUỐC",
+    "candidates": [
+      "2277"
+    ],
+    "assertions": [],
+    "position": [
+      1954,
+      1963
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1143,
+      1157
+    ],
+    "confidence": 9
+  },
+  {
+    "text": "Đau hạ vị",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1327,
+      1336
+    ],
+    "confidence": 6
+  },
+  {
+    "text": "triệu chứng đường hô hấp trên",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      697,
+      726
+    ],
+    "confidence": 2
+  }
+]

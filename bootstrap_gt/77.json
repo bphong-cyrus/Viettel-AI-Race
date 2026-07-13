@@ -1,0 +1,72 @@
+[
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      244,
+      258
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "clonidine",
+    "type": "THUỐC",
+    "candidates": [
+      "2573"
+    ],
+    "assertions": [],
+    "position": [
+      398,
+      407
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "trầm cảm",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      726,
+      734
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tâm thần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1211,
+      1219
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1100,
+      1105
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "hoang tưởng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1121,
+      1132
+    ],
+    "confidence": 3
+  }
+]

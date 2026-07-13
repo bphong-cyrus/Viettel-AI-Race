@@ -1,0 +1,50 @@
+[
+  {
+    "text": "ung thư vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      58,
+      68
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "cephalexin",
+    "type": "THUỐC",
+    "candidates": [
+      "2249"
+    ],
+    "assertions": [],
+    "position": [
+      714,
+      724
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      792,
+      801
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "1119705"
+    ],
+    "assertions": [],
+    "position": [
+      1351,
+      1361
+    ],
+    "confidence": 4
+  }
+]

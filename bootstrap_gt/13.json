@@ -1,0 +1,54 @@
+[
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      170,
+      177
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      184,
+      197
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": [
+      "428653"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      430,
+      441
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Nhiễm virus",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2488,
+      2499
+    ],
+    "confidence": 4
+  }
+]

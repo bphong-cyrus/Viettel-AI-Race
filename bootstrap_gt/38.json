@@ -1,0 +1,124 @@
+[
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      62
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      75,
+      98
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      125,
+      132
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau họng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      261,
+      269
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      404,
+      412
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tăng cân",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      424,
+      432
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      760,
+      767
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm họng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      915,
+      924
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "glucose 537",
+    "type": "THUỐC",
+    "candidates": [
+      "346957"
+    ],
+    "assertions": [],
+    "position": [
+      994,
+      1010
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "glucose",
+    "type": "THUỐC",
+    "candidates": [
+      "346957"
+    ],
+    "assertions": [],
+    "position": [
+      1012,
+      1019
+    ],
+    "confidence": 4
+  }
+]

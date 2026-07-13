@@ -1,0 +1,124 @@
+[
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      69,
+      77
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "seroquel",
+    "type": "THUỐC",
+    "candidates": [
+      "845"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      190,
+      198
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Lú lẫn từng đợt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      477,
+      492
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      516,
+      525
+    ],
+    "confidence": 9
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      618,
+      625
+    ],
+    "confidence": 16
+  },
+  {
+    "text": "Ảo thanh",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      660,
+      668
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tâm thần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      1534,
+      1542
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đa xơ cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2190,
+      2200
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      817,
+      823
+    ],
+    "confidence": 5
+  },
+  {
+    "text": "Ảo giác",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2240,
+      2247
+    ],
+    "confidence": 3
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Bệnh thận đa nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      41,
+      58
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "azathioprine",
+    "type": "THUỐC",
+    "candidates": [
+      "1256"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      208,
+      220
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Suy thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      386,
+      394
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      626,
+      635
+    ],
+    "confidence": 7
+  }
+]

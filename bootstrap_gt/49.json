@@ -1,0 +1,103 @@
+[
+  {
+    "text": "sa âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      58,
+      67
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiểu buốt",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      373,
+      382
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      497,
+      504
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "ra huyết âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      553,
+      568
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Tiểu không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      676,
+      693
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiểu máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1166,
+      1174
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm khuẩn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1184,
+      1195
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "sỏi thận",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1244,
+      1252
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm bể thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1261,
+      1273
+    ],
+    "confidence": 4
+  }
+]

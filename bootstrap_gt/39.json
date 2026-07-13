@@ -1,0 +1,70 @@
+[
+  {
+    "text": "viêm túi mật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      45
+    ],
+    "confidence": 3
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      136,
+      147
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      347,
+      355
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      476,
+      488
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "viêm túi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      578,
+      590
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "đau bụng dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      52
+    ],
+    "confidence": 4
+  }
+]

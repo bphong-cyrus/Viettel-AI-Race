@@ -1,0 +1,124 @@
+[
+  {
+    "text": "viêm túi mật cấp",
+    "type": "THUỐC",
+    "candidates": [
+      "1099279"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      175,
+      184
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      230,
+      238
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      295,
+      306
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      355,
+      362
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      618,
+      625
+    ],
+    "confidence": 16
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      772,
+      780
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "viêm túi mật cấp",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1366,
+      1375
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "viêm túi mật cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1567,
+      1583
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "colace 2",
+    "type": "THUỐC",
+    "candidates": [
+      "1099279"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      175,
+      184
+    ],
+    "confidence": 2
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1366,
+      1375
+    ],
+    "confidence": 2
+  }
+]

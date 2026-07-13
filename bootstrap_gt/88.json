@@ -1,0 +1,112 @@
+[
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      62
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Viêm gan virus",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      115,
+      129
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Tăng áp động mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      143,
+      165
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "U lympho",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      189,
+      197
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "Phù chân",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      453,
+      461
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "Lasix",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "assertions": [],
+    "position": [
+      604,
+      609
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "Loét",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      851,
+      855
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      952,
+      963
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "tiểu nhiều lần",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      627,
+      641
+    ],
+    "confidence": 3
+  }
+]

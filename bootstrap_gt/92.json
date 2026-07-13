@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      45,
+      56
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      415,
+      420
+    ],
+    "confidence": 4
+  }
+]

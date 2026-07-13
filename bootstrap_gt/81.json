@@ -1,0 +1,24 @@
+[
+  {
+    "text": "vết thương thấu bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      57
+    ],
+    "confidence": 4
+  },
+  {
+    "text": "vết thương thấu bụng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      57
+    ],
+    "confidence": 3
+  }
+]

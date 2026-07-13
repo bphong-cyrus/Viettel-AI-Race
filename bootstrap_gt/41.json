@@ -1,0 +1,139 @@
+[
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      73,
+      81
+    ],
+    "confidence": 19
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      85,
+      94
+    ],
+    "confidence": 19
+  },
+  {
+    "text": "Nôn ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      118,
+      128
+    ],
+    "confidence": 40
+  },
+  {
+    "text": "loét tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      390,
+      403
+    ],
+    "confidence": 16
+  },
+  {
+    "text": "Viêm thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      478,
+      492
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "loét thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      499,
+      513
+    ],
+    "confidence": 7
+  },
+  {
+    "text": "omeprazole",
+    "type": "THUỐC",
+    "candidates": [
+      "7646"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      625,
+      635
+    ],
+    "confidence": 22
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1115,
+      1123
+    ],
+    "confidence": 10
+  },
+  {
+    "text": "viêm dạ dày ruột",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      144,
+      160
+    ],
+    "confidence": 24
+  },
+  {
+    "text": "loét",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      546,
+      550
+    ],
+    "confidence": 21
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      842,
+      853
+    ],
+    "confidence": 12
+  }
+]
