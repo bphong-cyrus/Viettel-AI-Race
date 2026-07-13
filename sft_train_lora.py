@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 LoRA / QLoRA fine-tuning script for Vietnamese medical NER.
 
@@ -26,7 +26,10 @@ import re
 from typing import List, Dict
 from pathlib import Path
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 
 # ============================================================================

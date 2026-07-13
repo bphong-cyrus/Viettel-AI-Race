@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 LLM inference engine for Vietnamese medical NER.
 
@@ -17,7 +17,10 @@ import re
 import time
 from typing import List, Dict, Optional
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 from llm_ner_config import get_model_config, INFERENCE_PARAMS, get_load_kwargs
 from llm_prompts import build_user_prompt, build_compact_prompt, build_chat_messages

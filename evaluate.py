@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Evaluation harness: scores predicted JSONs against ground truth JSONs.
 
@@ -15,7 +15,10 @@ import argparse
 from pathlib import Path
 from collections import defaultdict
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 from scorer import NERScorer, word_error_rate, jaccard_for_field
 

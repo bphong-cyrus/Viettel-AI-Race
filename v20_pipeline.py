@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Vietnamese Medical NER Pipeline v20 — Exact v11 replica
 All 6 steps: KEY_PHRASES → drugs → verb-drugs → section vocab → lido → viêm reclassify
@@ -6,7 +6,10 @@ All 6 steps: KEY_PHRASES → drugs → verb-drugs → section vocab → lido →
 import os, re, json, zipfile, sys
 from typing import List, Dict, Tuple, Optional, Set
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 from drug_dict_v3 import find_drugs_in_text, lookup_drug_cui, lookup_drug_cuis, DRUG_DICT
 from vocab_v5 import SYMPTOMS, DIAGNOSES

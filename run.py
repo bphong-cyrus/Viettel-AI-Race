@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Unified runner: orchestrate rule-based, LLM, and hybrid pipelines.
 
@@ -30,7 +30,10 @@ import argparse
 import time
 from pathlib import Path
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 
 def cmd_rules(args):

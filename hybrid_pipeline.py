@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Hybrid pipeline: rules-first (v20) + LLM-fill-missing.
 
@@ -21,7 +21,10 @@ import time
 from typing import List, Dict, Tuple, Optional, Set
 from pathlib import Path
 
-sys.stdout.reconfigure(encoding='utf-8')
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 
 # Import base pipeline
 from v20_pipeline import extract_entities_v20

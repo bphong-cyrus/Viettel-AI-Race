@@ -1,0 +1,275 @@
+[
+  {
+    "text": "metoprolol 25mg po bid",
+    "type": "THUỐC",
+    "candidates": ["866436"],
+    "assertions": ["isHistorical"],
+    "position": [53, 75]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": ["428653"],
+    "assertions": ["isHistorical"],
+    "position": [82, 93]
+  },
+  {
+    "text": "atenolol",
+    "type": "THUỐC",
+    "candidates": ["1202"],
+    "assertions": ["isHistorical"],
+    "position": [122, 130]
+  },
+  {
+    "text": "viêm tuyến mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [98, 115]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [497, 512]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [615, 630]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [666, 681]
+  },
+  {
+    "text": "Khó thở nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [688, 699]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [700, 707]
+  },
+  {
+    "text": "thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [723, 737]
+  },
+  {
+    "text": "Tăng đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [782, 802]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [832, 839]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [878, 885]
+  },
+  {
+    "text": "gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [896, 904]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [935, 942]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1053, 1068]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1084, 1099]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1121, 1128]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1149, 1164]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1180, 1187]
+  },
+  {
+    "text": "thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1226, 1240]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": ["isNegated"],
+    "position": [1339, 1346]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1362, 1377]
+  },
+  {
+    "text": "giảm dung nạp gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": ["isNegated"],
+    "position": [1423, 1445]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": ["isNegated"],
+    "position": [1461, 1469]
+  },
+  {
+    "text": "đổ mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": ["isNegated"],
+    "position": [1480, 1489]
+  },
+  {
+    "text": "gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [1516, 1524]
+  },
+  {
+    "text": "Nhịp xoang chiếm ưu thế",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [1655, 1678]
+  },
+  {
+    "text": "ngoại tâm thu nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [1689, 1706]
+  },
+  {
+    "text": "ngoại tâm thu thất",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [1710, 1728]
+  },
+  {
+    "text": "metoprolol 25mg po bid",
+    "type": "THUỐC",
+    "candidates": ["866436"],
+    "assertions": [],
+    "position": [1772, 1794]
+  },
+  {
+    "text": "thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [2059, 2073]
+  },
+  {
+    "text": "tăng đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [2090, 2110]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [2115, 2122]
+  },
+  {
+    "text": "aspirin 325mg x 1",
+    "type": "THUỐC",
+    "candidates": ["243670"],
+    "assertions": [],
+    "position": [2199, 2216]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [2406, 2421]
+  },
+  {
+    "text": "Nhịp xoang chiếm ưu thế",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": ["isHistorical"],
+    "position": [2845, 2868]
+  },
+  {
+    "text": "ngoại tâm thu nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": ["isHistorical"],
+    "position": [2879, 2896]
+  },
+  {
+    "text": "ngoại tâm thu thất",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": ["isHistorical"],
+    "position": [2900, 2918]
+  }
+]
