@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 LoRA / QLoRA fine-tuning script for Vietnamese medical NER.
 
@@ -159,27 +159,30 @@ def build_prompt_and_response(example: Dict, use_few_shot_in_training: bool = Fa
 # ============================================================================
 # MAIN TRAINING LOOP
 # ============================================================================
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--base_model", default="Qwen/Qwen2.5-7B-Instruct",
-                    help="HF model ID or local path")
-    ap.add_argument("--gt_dir", default="bootstrap_gt")
-    ap.add_argument("--input_dir", default="input/input")
-    ap.add_argument("--output_dir", default="output_lora")
-    ap.add_argument("--epochs", type=int, default=5)
-    ap.add_argument("--lr", type=float, default=1e-4)
-    ap.add_argument("--lora_r", type=int, default=16)
-    ap.add_argument("--lora_alpha", type=int, default=32)
-    ap.add_argument("--lora_dropout", type=float, default=0.05)
-    ap.add_argument("--max_seq_len", type=int, default=4096)
-    ap.add_argument("--batch_size", type=int, default=1)
-    ap.add_argument("--grad_accum", type=int, default=8)
-    ap.add_argument("--qlora", action="store_true", help="Use 4-bit quantization (QLoRA)")
-    ap.add_argument("--warmup_ratio", type=float, default=0.05)
-    ap.add_argument("--save_steps", type=int, default=20)
-    ap.add_argument("--logging_steps", type=int, default=5)
-    ap.add_argument("--seed", type=int, default=42)
-    args = ap.parse_args()
+def main(args=None):
+    if args is None:
+        # Called from command line — parse sys.argv
+        ap = argparse.ArgumentParser()
+        ap.add_argument("--base_model", default="Qwen/Qwen2.5-7B-Instruct",
+                        help="HF model ID or local path")
+        ap.add_argument("--gt_dir", default="bootstrap_gt")
+        ap.add_argument("--input_dir", default="input/input")
+        ap.add_argument("--output_dir", default="output_lora")
+        ap.add_argument("--epochs", type=int, default=5)
+        ap.add_argument("--lr", type=float, default=1e-4)
+        ap.add_argument("--lora_r", type=int, default=16)
+        ap.add_argument("--lora_alpha", type=int, default=32)
+        ap.add_argument("--lora_dropout", type=float, default=0.05)
+        ap.add_argument("--max_seq_len", type=int, default=4096)
+        ap.add_argument("--batch_size", type=int, default=1)
+        ap.add_argument("--grad_accum", type=int, default=8)
+        ap.add_argument("--qlora", action="store_true", help="Use 4-bit quantization (QLoRA)")
+        ap.add_argument("--warmup_ratio", type=float, default=0.05)
+        ap.add_argument("--save_steps", type=int, default=20)
+        ap.add_argument("--logging_steps", type=int, default=5)
+        ap.add_argument("--seed", type=int, default=42)
+        ap.add_argument("--gradient_checkpointing", action="store_true", default=True)
+        args = ap.parse_args()
 
     # ---- Imports (after parse to keep --help fast) ----
     import torch
@@ -324,17 +327,16 @@ def main():
         gradient_accumulation_steps=args.grad_accum,
         learning_rate=args.lr,
         warmup_ratio=args.warmup_ratio,
-        logging_steps=args.logging_steps,
-        save_steps=args.save_steps,
+        logging_steps=getattr(args, 'logging_steps', 5),
         save_strategy="epoch",
         eval_strategy="no",
         lr_scheduler_type="cosine",
         optim="paged_adamw_8bit" if args.qlora else "adamw_torch",
         bf16=True,
         report_to="none",
-        seed=args.seed,
+        seed=getattr(args, 'seed', 42),
         max_grad_norm=1.0,
-        gradient_checkpointing=True,
+        gradient_checkpointing=getattr(args, 'gradient_checkpointing', True),
         remove_unused_columns=False,
     )
 
