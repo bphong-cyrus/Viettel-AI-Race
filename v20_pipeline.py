@@ -491,13 +491,59 @@ def extract_entities_v20(text: str) -> List[Dict]:
             seen_pos.add(pos_key)
             deduped.append(e)
 
+    # ---- POST-PROCESSING: remove FP fragments ----
+    # These patterns are known FP in bootstrap that GT doesn't include
+    # They appear standalone but GT uses the full phrase
+    _FP_FRAGMENTS = {
+        # Standalone fragments that should be part of larger phrases
+        "nôn", "sốt", "phù", "ớn lạnh", "ngã",
+        # Temporal/spatial phrases that aren't medical entities
+        "trước nhập viện", "trước khi", "trong lúc",
+        # Generic symptoms GT doesn't track as standalone
+        "ngứa", "rát", "ngạt", "ho", "chảy",
+    }
+    # Entities that are fragments of larger phrases (checked by looking for longer match)
+    _FRAGMENT_BY_LONGER = {
+        "ngã": None,  # remove if not preceded by disease name
+    }
+
+    filtered = []
+    for e in deduped:
+        txt = e['text'].lower().strip()
+        etype = e['type']
+
+        # Remove known FP fragments
+        if txt in _FP_FRAGMENTS:
+            # Check if this is part of a larger known phrase in the text
+            # by looking for longer symptom/diagnosis matches nearby
+            start, end = e['position']
+            # Check 20 chars before and after
+            ctx = text[max(0,start-20):end+20].lower()
+            longer_found = False
+            for sym in SYMPTOMS:
+                if len(sym) > len(txt) + 3 and sym.lower() in ctx:
+                    longer_found = True
+                    break
+            for diag in DIAGNOSES:
+                if len(diag) > len(txt) + 3 and diag.lower() in ctx:
+                    longer_found = True
+                    break
+            if not longer_found:
+                continue  # Skip this FP
+
+        # Remove very short symptoms that are likely noise
+        if etype == 'TRIỆU_CHỨNG' and len(txt) < 4:
+            continue
+
+        filtered.append(e)
+
     return [{
         'text': e['text'],
         'type': e['type'],
         'candidates': e.get('candidates', []),
         'assertions': e.get('assertions', []),
         'position': e['position'],
-    } for e in deduped]
+    } for e in filtered]
 
 
 def process_file(input_path: str, output_path: str):
