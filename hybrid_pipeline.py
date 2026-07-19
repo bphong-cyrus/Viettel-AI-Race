@@ -52,6 +52,18 @@ def position_match_score(p1: Tuple[int, int], p2: Tuple[int, int]) -> float:
 # ============================================================================
 # HYBRID MERGE
 # ============================================================================
+def _get_pos(e):
+    """Safely get position from entity, handling mixed formats."""
+    pos = e.get("position")
+    if pos is not None:
+        return tuple(pos) if isinstance(pos, (list, tuple)) else pos
+    s = e.get("start")
+    en = e.get("end")
+    if s is not None and en is not None:
+        return (s, en)
+    return None
+
+
 def merge_rule_and_llm(rule_ents: List[Dict], llm_ents: List[Dict],
                        rule_weight: float = 0.6,
                        match_threshold: float = 0.5) -> List[Dict]:
@@ -65,24 +77,33 @@ def merge_rule_and_llm(rule_ents: List[Dict], llm_ents: List[Dict],
 
     Returns: merged entity list, sorted by position.
     """
+    # Filter entities with no position
+    rule_ents = [e for e in rule_ents if _get_pos(e) is not None]
+    llm_ents = [e for e in llm_ents if _get_pos(e) is not None]
+
     if not rule_ents and not llm_ents:
         return []
     if not rule_ents:
-        return sorted(llm_ents, key=lambda e: e["position"][0])
+        return sorted(llm_ents, key=lambda e: _get_pos(e)[0])
     if not llm_ents:
-        return sorted(rule_ents, key=lambda e: e["position"][0])
+        return sorted(rule_ents, key=lambda e: _get_pos(e)[0])
 
     matched_llm = set()
     merged = []
 
     for r in rule_ents:
-        rp = tuple(r["position"])
+        rp = _get_pos(r)
+        if rp is None:
+            continue
         best_match = None
         best_score = 0.0
         for i, l in enumerate(llm_ents):
             if i in matched_llm:
                 continue
-            score = position_match_score(rp, tuple(l["position"]))
+            lp = _get_pos(l)
+            if lp is None:
+                continue
+            score = position_match_score(rp, lp)
             if score > best_score:
                 best_score = score
                 best_match = (i, l)
@@ -119,13 +140,16 @@ def merge_rule_and_llm(rule_ents: List[Dict], llm_ents: List[Dict],
             merged.append(l)
 
     # Sort by position
-    merged.sort(key=lambda e: (e["position"][0], e["position"][1]))
+    merged.sort(key=lambda e: (_get_pos(e)[0], _get_pos(e)[1]))
 
     # Final dedupe (same text + position)
     seen = set()
     final = []
     for e in merged:
-        key = (e["text"].lower().strip(), e["position"][0], e["position"][1], e["type"])
+        p = _get_pos(e)
+        if p is None:
+            continue
+        key = (e["text"].lower().strip(), p[0], p[1], e["type"])
         if key not in seen:
             seen.add(key)
             final.append(e)
