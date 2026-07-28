@@ -1,0 +1,142 @@
+[
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      90,
+      95
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      102,
+      115
+    ]
+  },
+  {
+    "text": "Táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      138,
+      145
+    ]
+  },
+  {
+    "text": "ngưng thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      162,
+      171
+    ]
+  },
+  {
+    "text": "nhịp thở nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      222,
+      236
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      322,
+      329
+    ]
+  },
+  {
+    "text": "chảy nước mũi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      337,
+      350
+    ]
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      470,
+      481
+    ]
+  },
+  {
+    "text": "viêm phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1198,
+      1210
+    ]
+  },
+  {
+    "text": "Albuterol",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "assertions": [],
+    "position": [
+      1265,
+      1274
+    ]
+  },
+  {
+    "text": "Ipratropium 1",
+    "type": "THUỐC",
+    "candidates": [
+      "6402"
+    ],
+    "assertions": [],
+    "position": [
+      1278,
+      1292
+    ]
+  },
+  {
+    "text": "Ceftriaxone 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "2713"
+    ],
+    "assertions": [],
+    "position": [
+      1302,
+      1317
+    ]
+  },
+  {
+    "text": "Tylenol 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "313782"
+    ],
+    "assertions": [],
+    "position": [
+      1344,
+      1355
+    ]
+  }
+]

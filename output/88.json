@@ -1,0 +1,59 @@
+[
+  {
+    "text": "ung thư đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected",
+      "isHistorical"
+    ],
+    "position": [
+      183,
+      196
+    ]
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      401,
+      408
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      536,
+      541
+    ]
+  },
+  {
+    "text": "Augmentin",
+    "type": "THUỐC",
+    "candidates": [
+      "617314"
+    ],
+    "assertions": [],
+    "position": [
+      630,
+      639
+    ]
+  },
+  {
+    "text": "calcium",
+    "type": "THUỐC",
+    "candidates": [
+      "188006"
+    ],
+    "assertions": [],
+    "position": [
+      1052,
+      1059
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1030,
+      1038
+    ]
+  },
+  {
+    "text": "sỏi thận",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1455,
+      1463
+    ]
+  },
+  {
+    "text": "metoclopramide 10mg",
+    "type": "THUỐC",
+    "candidates": [
+      "6819"
+    ],
+    "assertions": [],
+    "position": [
+      2145,
+      2164
+    ]
+  },
+  {
+    "text": "ợ nóng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2346,
+      2352
+    ]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2358,
+      2385
+    ]
+  },
+  {
+    "text": "theo dõi đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2694,
+      2717
+    ]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      2980,
+      2985
+    ]
+  }
+]

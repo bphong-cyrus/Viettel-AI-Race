@@ -1,0 +1,144 @@
+[
+  {
+    "text": "Hội chứng thận hư",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      187,
+      204
+    ]
+  },
+  {
+    "text": "Protein niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      448,
+      460
+    ]
+  },
+  {
+    "text": "viêm cầu thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      777,
+      790
+    ]
+  },
+  {
+    "text": "suy thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      808,
+      816
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      874,
+      883
+    ]
+  },
+  {
+    "text": "viêm họng cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1020,
+      1033
+    ]
+  },
+  {
+    "text": "Viêm cầu thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1102,
+      1119
+    ]
+  },
+  {
+    "text": "Medrol 16mg x 3 viên",
+    "type": "THUỐC",
+    "candidates": [
+      "6851"
+    ],
+    "assertions": [],
+    "position": [
+      1642,
+      1662
+    ]
+  },
+  {
+    "text": "nốt sần tuyến giáp",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1838,
+      1856
+    ]
+  },
+  {
+    "text": "cấu trúc vi nang",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1865,
+      1881
+    ]
+  },
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1908,
+      1929
+    ]
+  },
+  {
+    "text": "sỏi mật",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1989,
+      1996
+    ]
+  },
+  {
+    "text": "Zestril 10mg x 1 viên",
+    "type": "THUỐC",
+    "candidates": [
+      "29046"
+    ],
+    "assertions": [],
+    "position": [
+      2007,
+      2028
+    ]
+  }
+]

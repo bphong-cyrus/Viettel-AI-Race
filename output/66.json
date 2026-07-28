@@ -1,0 +1,144 @@
+[
+  {
+    "text": "u lành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      70,
+      76
+    ]
+  },
+  {
+    "text": "u xơ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      93,
+      97
+    ]
+  },
+  {
+    "text": "u nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      111,
+      117
+    ]
+  },
+  {
+    "text": "vitamin b12",
+    "type": "THUỐC",
+    "candidates": [
+      "213468"
+    ],
+    "assertions": [],
+    "position": [
+      237,
+      248
+    ]
+  },
+  {
+    "text": "khối u",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      264,
+      270
+    ]
+  },
+  {
+    "text": "ung thư phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      271,
+      283
+    ]
+  },
+  {
+    "text": "u lành tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      310,
+      321
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      911,
+      922
+    ]
+  },
+  {
+    "text": "ung thư cũng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      958,
+      970
+    ]
+  },
+  {
+    "text": "ung thư hay",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      1118,
+      1129
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isSuspected"
+    ],
+    "position": [
+      1254,
+      1263
+    ]
+  },
+  {
+    "text": "Estrogen",
+    "type": "THUỐC",
+    "candidates": [
+      "41672"
+    ],
+    "assertions": [],
+    "position": [
+      1369,
+      1377
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1470,
+      1489
+    ]
+  }
+]
